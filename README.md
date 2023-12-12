@@ -1,6 +1,6 @@
 # Hi there, I'm Saketh!
 
-Greetings! I'm Saketh, a passionate and aspiring Data Scientist and Web Developer currently navigating the exciting realms of technology and data. Currently pursuing a Bachelors in Engineering in Computer Science from RVCE Bengaluru and simultaneously pursuing a B.S. degree in Data Science and Applications from IIT Madras, I'm on a journey to merge the worlds of data and web development.
+Greetings! I'm Saketh, a passionate and aspiring Data Scientist and Web Developer currently navigating the exciting realms of technology and data. Currently pursuing a Bachelors in Engineering in Computer Science from RVCE Bengaluru and simultaneously pursuing a B.S. degree in Data Science and Applications from IIT Madras, I'm on a journey to understand the nuances in the fields of Web Development and Data Science !
 
 ## About Me
 
