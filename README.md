@@ -38,7 +38,7 @@ For Web Development, I'm equipped with the following:
 ## What's Currently on My Plate
 
 - 📘 Enhancing my Data Science skills with a focus on Sports Analytics.
-- 💻 Learning and implementing React for creating dynamic and responsive web applications.
+- 💻 Learning and implementing Vue3 for creating dynamic and responsive web applications.
 
 ## Let's Connect!
 
