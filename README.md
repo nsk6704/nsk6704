@@ -26,7 +26,7 @@ In the realm of Data Science, I've dived into the following:
 - **Languages:** Python
 - **Skills:** Data Preprocessing, Exploratory Data Analysis (EDA)
 - **Libraries:** NumPy, Pandas, Scikit-learn
-- **Currently Learning:** PyTorch
+
 
 ### Aspiring Web Developer
 
