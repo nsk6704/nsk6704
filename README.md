@@ -33,7 +33,7 @@ In the realm of Data Science, I've dived into the following:
 For Web Development, I'm equipped with the following:
 
 - **Languages:** HTML, CSS, JavaScript
-- **Framework:** Learning VueJS
+- **Framework/Library:** Learning ReactJS
 
 ## What's Currently on My Plate
 
