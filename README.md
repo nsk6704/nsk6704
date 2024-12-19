@@ -41,7 +41,7 @@ For Web Development, I'm equipped with the following:
 I'm always open to collaborations, discussions, and connecting with fellow enthusiasts. If you share similar interests or have exciting projects in mind, feel free to reach out!
 
 - 📧 Email: nsakethk2004@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/saketh-kashyap-nagendra-87b317249/
+- 💼 LinkedIn: https://www.linkedin.com/in/saketh-kashyap-nagendra/
 
 Looking forward to navigating the world of data and web together! 🚀
 
