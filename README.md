@@ -1,63 +1,81 @@
-# Hi there, I'm Saketh!
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Saketh%20Kashyap%20Nagendra&fontSize=38&fontAlignY=40&desc=Exploring%20web%20development%20and%20data%20through%20hands-on%20projects&descAlignY=65"
+    alt="Header"
+  />
+</p>
 
-Greetings! I'm Saketh, a passionate and aspiring Data Scientist and Web Developer currently navigating the exciting realms of technology and data. Currently pursuing a Bachelors in Engineering in Computer Science from RVCE Bengaluru and simultaneously pursuing a B.S. degree in Data Science and Applications from IIT Madras, I'm on a journey to understand the nuances in the fields of Web Development and Data Science !
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=700&color=6B7280&center=true&vCenter=true&width=720&lines=Frontend+development;Machine+Learning+foundations;Learning+by+building+things"
+    alt="Typing intro"
+  />
+</p>
 
-## About Me
+## About
 
-- **Name:** Saketh
-- **Occupation:** Aspiring Data Scientist | Student | Web Development Enthusiast
-- **Location:** Bengaluru
+I enjoy working on projects where I can combine **code, data, and problem-solving** to build something tangible.
 
-## My Academic Journey
+Most of my learning comes from building small systems end-to-end, understanding how the pieces fit together, and then refining them over time. I prefer clarity over cleverness and simple solutions before complex ones.
 
-I am currently a student pursuing a dual-degree program:
+## What I Usually Work On
 
-- **Bachelors:** Computer Science Engineering from RVCE Bengaluru
-- **B.S. Degree:** Data Science and Applications from IIT Madras
+- Web applications using modern JavaScript frameworks  
+- Data preprocessing, analysis, and small experiments  
+- Visual or interactive explanations for algorithms and concepts  
+- Connecting basic ML models to usable interfaces  
 
-## My Journey So Far
+## Projects
 
-I really am excited about both Data Science and Web Development and while it might seem very differenent from one another, I'm keen on exploring the potential synergies between the two. I also believe that in this day and age, it's always great to have a good knowledge in two domains. Let me share a bit about my first steps in both domains.
+**AgriGuard**  
+A web application for crop disease detection using a trained CNN model. The project also includes a chatbot that provides contextual information related to detected diseases, instead of just returning a label.
 
-### Data Science Exploration
+**AlgoViz**  
+A learning-focused platform for visualizing algorithms step by step using animations. The goal is to make algorithm behavior easier to understand through interaction rather than static explanations.
 
-In the realm of Data Science, I've dived into the following:
+## Technologies
 
-- **Languages:** Python
-- **Skills:** Data Preprocessing, Exploratory Data Analysis (EDA)
-- **Libraries:** NumPy, Pandas, Scikit-learn
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,sql&perline=5" />
+</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,firebase,sqlite&perline=5" />
+</p>
 
-### Aspiring Web Developer
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,vim&perline=3" />
+</p>
 
-For Web Development, I'm equipped with the following:
+## GitHub Activity
 
-- **Languages:** HTML, CSS, JavaScript
-- **Framework/Library:** Learning ReactJS
+Most of my repositories reflect coursework, personal projects, and experiments while learning new tools or concepts. I try to keep progress steady and revisit projects as I learn more.
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nsk6704&show_icons=true&hide_border=true"
+    alt="GitHub stats"
+  />
+</p>
 
-## Let's Connect!
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nsk6704&bg_color=ffffff00&color=6B7280&line=2563eb&point=2563eb&hide_border=true"
+    alt="Contribution graph"
+  />
+</p>
 
-I'm always open to collaborations, discussions, and connecting with fellow enthusiasts. If you share similar interests or have exciting projects in mind, feel free to reach out!
+## How I Like to Learn and Build
 
-- 📧 Email: nsakethk2004@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/saketh-kashyap-nagendra/
+- Start with a simple version that works  
+- Make the logic easy to follow before optimizing  
+- Improve structure and performance incrementally  
+- Use projects as a way to understand concepts deeply  
 
-Looking forward to navigating the world of data and web together! 🚀
+## Contact
 
+If you’d like to connect or talk about projects:
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nsk6704&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nsk6704&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nsk6704&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nsk6704&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=nsk6704&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Email: sakethkashyap.nagendra@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/saketh-kashyap-nagendra  
+- GitHub: https://github.com/nsk6704  
