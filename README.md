@@ -58,12 +58,6 @@ Most of my repositories reflect coursework, personal projects, and experiments w
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nsk6704&bg_color=ffffff00&color=6B7280&line=2563eb&point=2563eb&hide_border=true"
-    alt="Contribution graph"
-  />
-</p>
 
 ## How I Like to Learn and Build
 
