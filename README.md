@@ -15,7 +15,6 @@
   />
 </p>
 
----
 
 ## About
 
@@ -23,7 +22,7 @@ I build end-to-end applications across frontend, backend, and AI.
 
 My focus is on how systems behave in practice, from API design and data flow to user interaction. I aim to keep systems simple, reliable, and easy to reason about, and then improve them through iteration.
 
----
+
 
 ## Projects
 
@@ -37,7 +36,7 @@ AI-powered interview agent with conversational and voice interaction
 - Supports real-time voice interaction using speech-to-text and text-to-speech  
 - Maintains conversational context using session-based state management  
 
----
+
 
 ### Credify  
 Privacy-first mobile application for structured personal data management  
@@ -50,7 +49,6 @@ Privacy-first mobile application for structured personal data management
 - Provides data portability through JSON export and import  
 
 
----
 
 ## Tech Stack
 
@@ -62,7 +60,6 @@ Privacy-first mobile application for structured personal data management
   <img src="https://skillicons.dev/icons?i=fastapi,flask,firebase,sqlite,git,linux,vim&perline=7" />
 </p>
 
----
 
 ## Activity
 
@@ -74,7 +71,6 @@ Privacy-first mobile application for structured personal data management
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nsk6704&hide_border=true" />
 </p>
 
----
 
 ## Current Focus
 
@@ -82,7 +78,6 @@ Privacy-first mobile application for structured personal data management
 - Improving backend design and API structure  
 - Developing a multi-agent system
 
----
 
 ## Contact
 
