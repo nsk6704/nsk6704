@@ -29,7 +29,7 @@ My focus is on how systems behave in practice, from API design and data flow to 
 ### InterviewAssistant  
 AI-powered interview agent with conversational and voice interaction  
 
-[Live](https://your-live-link.com) • [Code](https://github.com/nsk6704/InterviewAssistant)
+[Live](https://interview.sakethkashyap.dev) • [Code](https://github.com/nsk6704/InterviewAssistant)
 
 - Simulates multi-stage interview flows across technical and behavioral rounds  
 - Integrates model fallback to maintain response reliability  
