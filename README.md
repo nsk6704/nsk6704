@@ -34,10 +34,10 @@ AI-powered interview agent with conversational and voice interaction
 
 
 
-### Credify  
+### UpWell  
 Privacy-first mobile application for structured personal data management  
 
-[Live](https://credify.sakethkashyap.dev) • [Code](https://github.com/nsk6704/Credify)
+[Live](https://upwell.sakethkashyap.dev) • [Code](https://github.com/nsk6704/UpWell)
 
 - Local-first architecture using SQLite for complete data ownership  
 - Tracks multiple domains including finance, health, habits, and journaling  
